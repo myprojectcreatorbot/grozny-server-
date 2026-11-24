@@ -1,10 +1,10 @@
 [
   {
-    "logo": "moscow",
-    "id": 1,
+    "logo": "",
+    "id": "1",
     "status": "",
-    "online": 0,
-    "maxonline": 100,
+    "online": "0",
+    "maxonline": "100",
     "color": "FF0000",
     "x2": false,
     "key": "1424",
@@ -13,6 +13,6 @@
     "secondname": "GROZNY",
     "url": "https://githubusercontent.com",
     "ip": "188.127.241.74",
-    "port": 2314
+    "port": "2314"
   }
 ]
